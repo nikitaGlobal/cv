@@ -47,11 +47,13 @@ jobs:
 
     - name: Generate HTML
       run: |
+          git checkout main README.md
           pandoc README.md --metadata title="Senior PHP Backend Developer"  --from=markdown --to=html5  -o index.html --standalone --css=styles.css
            
     
     - name: Generate PDF
       run: |
+          git checkout main README.md
           pandoc --standalone --metadata title="Senior PHP Backend Developer" --from=markdown --to=html5 README.md -o output.html
           weasyprint output.html -s styles.css nikita_menshutin.pdf
 
