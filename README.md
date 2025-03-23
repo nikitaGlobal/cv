@@ -1,5 +1,3 @@
-# Senior PHP Backend Developer
-
 ## Nikita Menshutin
 
 ### Contact Information
@@ -34,7 +32,7 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 
 ### Professional Experience
 
-#### Senior Backend Developet at edited.com, UK/Bulgaria (Sep 2023 - now)
+#### Senior Backend Developer at edited.com, UK/Bulgaria (Sep 2023 - now)
 - **Software Development and Maintenance**: Develops and maintains software for existing applications and new functionalities, ensuring high performance, security, and user-friendliness.
 - **Configuration Management**: Creates, preserves, updates, optimizes, documents, and implements software configurations necessary for its operation.
 - **Innovation Tracking and Problem Resolution**: Keeps track of innovations in software development, tests them, and assists in investigating and verifying new functionalities and problems.
@@ -106,4 +104,13 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 ### Additional Information
 - **Two Professions**: Software Developer and International Economics.
 - **Hobbies**: Fond of sports and writes articles for media.
-- **Driving Experience**: Owns a car with a driver's license category B.
+- **Driving Experience**: Owns and drives car.
+
+## My Links
+- [GitHub](https://github.com/nikitaGlobal/)
+- [LinkedIN](https://www.linkedin.com/in/nikitaglobal/)
+- [Habr.com](https://habr.com/ru/users/nikitaGlobal/)
+- [wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+
+Latest version of my cv can be found here:
+[Web version](https://nikitaglobal.github.io/cv/) [PDF version](https://nikitaglobal.github.io/cv/nikita_menshutin.pdf)
