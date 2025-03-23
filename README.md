@@ -98,6 +98,11 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 - HTML, CSS, and JavaScript (2016)
 - Multiplatform Mobile App Development with Web Technologies (2016)
 
+### Pet projects
+- **WordPress community**:  WordCamp Speaker (Sofia/2024), plugin developer, translator. [Me at wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+- **ViK bot**: telegram bot, warns people in several Bulgarian cities about upcoming water shortage. Since 2019
+- **Personal blog**: [nikita.global](https://nikita.global)
+
 ### Additional Information
 - **Two Professions**: Software Developer and International Economics.
 - **Hobbies**: Fond of sports and writes articles for media.
