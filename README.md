@@ -109,5 +109,4 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 - **Driving Experience**: Owns and drives car.
 
 Latest version of my cv can be found here:
-- **Web version**: https://nikitaglobal.github.io/cv/
-- **PDF version**: https://nikitaglobal.github.io/cv/nikita_menshutin.pdf
+[Web version](https://nikitaglobal.github.io/cv/) [PDF version](https://nikitaglobal.github.io/cv/nikita_menshutin.pdf)
