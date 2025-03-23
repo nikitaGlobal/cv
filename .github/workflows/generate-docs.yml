@@ -47,12 +47,12 @@ jobs:
 
     - name: Generate HTML
       run: |
-          pandoc README.md  --from=markdown --to=html5  -o index.html --standalone --css=styles.css
+          pandoc README.md --metadata title="Senior PHP Backend Developer"  --from=markdown --to=html5  -o index.html --standalone --css=styles.css
            
     
     - name: Generate PDF
       run: |
-          pandoc --standalone  --from=markdown --to=html5 README.md -o output.html
+          pandoc --standalone --metadata title="Senior PHP Backend Developer" --from=markdown --to=html5 README.md -o output.html
           weasyprint output.html -s styles.css nikita_menshutin.pdf
 
     - name: Set up GitHub token

@@ -108,5 +108,10 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 - **Hobbies**: Fond of sports and writes articles for media.
 - **Driving Experience**: Owns and drives car.
 
+## My Links
+[GitHub](https://github.com/nikitaGlobal/)
+[LinkedIN](https://www.linkedin.com/in/nikitaglobal/)
+[Habr.com](https://habr.com/ru/users/nikitaGlobal/)
+
 Latest version of my cv can be found here:
 [Web version](https://nikitaglobal.github.io/cv/) [PDF version](https://nikitaglobal.github.io/cv/nikita_menshutin.pdf)
