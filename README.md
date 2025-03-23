@@ -1,5 +1,3 @@
-# Senior PHP Backend Developer
-
 ## Nikita Menshutin
 
 ### Contact Information
