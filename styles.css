@@ -109,10 +109,10 @@ ul ul ul {
 @media print {
     @page {
       size: A4 portrait;
-      margin-left: 1cm;
+      margin-left: 0cm;
       margin-right: 0.5cm;
-      margin-top: 1cm;
-      margin-bottom: 1cm;
+      margin-top: 0.5cm;
+      margin-bottom: 0cm;
     }
     
 }
