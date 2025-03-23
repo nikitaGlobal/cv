@@ -105,7 +105,7 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 
 ## My Links
 - [GitHub](https://github.com/nikitaGlobal/)
-- [LinkedIN](https://www.linkedin.com/in/nikitaglobal/)
+- [Linkedin](https://www.linkedin.com/in/nikitaglobal/)
 - [Habr.com](https://habr.com/ru/users/nikitaGlobal/)
 - [wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
 - [Personal blog nikita.global](https://nikita.global)
