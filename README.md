@@ -7,7 +7,7 @@
 | **Telegram**            | [@nikita_global](https://t.me/nikita_global) |
 | **GitHub**              | [@nikitaGlobal](https://github.com/nikitaGlobal/) |
 | **Location**            | Varna, Bulgaria |
-| **Language Skills**     | Russian (Native), English (C1), Bulgarian (C1), French (C1) |
+| **Language Skills**     | Russian (Native),<br> English (C1),<br> Bulgarian (C1),<br> French (C1) |
 | **Recommendations** | Upon request |
 
 ### Professional Summary

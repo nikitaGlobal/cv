@@ -6,7 +6,8 @@
 
 body {
     font-family: 'Open Sans', sans-serif;
-    margin: 20px;
+    width: 80%;
+    margin:auto;
 }
 
 h1, h2, h3, h4 {
@@ -50,7 +51,15 @@ th, td {
 th {
     background-color: #f0f0f0;
 }
-
+/*
+make table second column wider
+*/
+th:nth-child(2) {
+    width: 70%;
+}
+table colgroup col{
+    width: inherit !important;
+}
 ul {
     list-style-type: disc; /* Добавляем значки для списков */
     padding: 0;
@@ -96,3 +105,15 @@ ul ul ul {
     list-style-type: square; /* Вложенные списки второго уровня с квадратными значками */
     padding-left: 80px; /* Больший отступ для списков второго уровня */
 }
+
+@media print {
+    @page {
+      size: A4 landscape;
+      margin-left: 1cm;
+      margin-right: 0.5cm;
+      margin-top: 1cm;
+      margin-bottom: 1cm;
+    }
+    
+}
+  
