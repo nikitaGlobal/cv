@@ -1,5 +1,3 @@
-## Nikita Menshutin
-
 ### Contact Information
 | Contact Information | Details |
 |-------------------------|------------|
