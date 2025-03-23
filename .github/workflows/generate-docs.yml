@@ -47,7 +47,7 @@ jobs:
 
     - name: Generate HTML
       run: |
-          pandoc README.md  --from=markdown --to=html5  -o index.html --standalone --css=style.css
+          pandoc README.md  --from=markdown --to=html5  -o index.html --standalone --css=styles.css
            
     
     - name: Generate PDF
