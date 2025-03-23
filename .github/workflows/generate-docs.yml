@@ -67,6 +67,6 @@ jobs:
         git add .
         git add -f index.html
         git add -f *.pdf
-        git add -f style.css
+        git add -f styles.css
         git commit -m "Deploy updates"
         git push origin gh-pages
