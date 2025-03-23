@@ -58,7 +58,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/nikitaGlobal/basic-rules
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/nikitaGlobal/cv
 
     - name: Deploy to GitHub Pages
       env:
