@@ -97,7 +97,6 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 ### Pet projects
 - **WordPress community**:  WordCamp Speaker (Sofia/2024), plugin developer, translator. [Me at wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
 - **ViK bot**: telegram bot, warns people in several Bulgarian cities about upcoming water shortage. Since 2019
-- **Personal blog**: [nikita.global](https://nikita.global)
 
 ### Additional Information
 - **Two Professions**: Software Developer and International Economics.
@@ -109,6 +108,7 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 - [LinkedIN](https://www.linkedin.com/in/nikitaglobal/)
 - [Habr.com](https://habr.com/ru/users/nikitaGlobal/)
 - [wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+- [Personal blog nikita.global](https://nikita.global)
 
 Latest version of my cv can be found here:
 
