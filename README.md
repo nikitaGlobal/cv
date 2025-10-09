@@ -10,7 +10,7 @@
 | **Recommendations** | Upon request |
 
 ### Professional Summary
-Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, Python, and TypeScript. Proven track record of managing multiple projects, developing high-performance API endpoints, and mentoring teams. Proficient in LAMP and MEAN stacks, with a strong focus on delivering scalable and efficient solutions.
+Highly experienced Senior Backend Developer and WordPress Developer with expertise in PHP, JavaScript, Python, and TypeScript. Proven track record of managing multiple projects, developing high-performance API endpoints, and mentoring teams. Proficient in LAMP and MEAN stacks, ReactJS component development, and AI integration (OpenAI API, LangChain, prompt engineering). Strong focus on delivering scalable, efficient, and AI-powered solutions.
 
 ### Desired Position
 - **Senior Backend Developer**
