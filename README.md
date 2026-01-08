@@ -10,7 +10,7 @@
 | **Recommendations** | Upon request |
 
 ### Professional Summary
-Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, Python, and TypeScript. Proven track record of managing multiple projects, developing high-performance API endpoints, and mentoring teams. Proficient in LAMP and MEAN stacks, with a strong focus on delivering scalable and efficient solutions.
+Highly experienced Senior Backend Developer and WordPress Developer with expertise in PHP, JavaScript, Python, and TypeScript. Proven track record of managing multiple projects, developing high-performance API endpoints, and mentoring teams. Proficient in LAMP and MEAN stacks, ReactJS component development, and AI integration (OpenAI API, LangChain, prompt engineering). Strong focus on delivering scalable, efficient, and AI-powered solutions.
 
 ### Desired Position
 - **Senior Backend Developer**
@@ -92,6 +92,7 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 
 ### Pet projects
 - **WordPress community**:  WordCamp Speaker (Sofia/2024), plugin developer, translator. [Me at wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+- **Limit Login Attempts Reloaded**: Contributor to the WordPress security plugin [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
 - **ViK bot**: telegram bot, warns people in several Bulgarian cities about upcoming water shortage. Since 2019
 
 ### Additional Information
