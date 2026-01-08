@@ -92,6 +92,7 @@ Highly experienced Senior Backend Developer and WordPress Developer with experti
 
 ### Pet projects
 - **WordPress community**:  WordCamp Speaker (Sofia/2024), plugin developer, translator. [Me at wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+- **Limit Login Attempts Reloaded**: Contributor to the WordPress security plugin [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/)
 - **ViK bot**: telegram bot, warns people in several Bulgarian cities about upcoming water shortage. Since 2019
 
 ### Additional Information
