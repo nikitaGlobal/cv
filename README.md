@@ -17,7 +17,7 @@ info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.
 ## Professional Experience
 
 ### edited.com — Senior Backend Developer / Senior WordPress Developer
-**Sep 2023 - Present | UK/Bulgaria**
+**Sep 2023 - Nov 2025 | UK/Bulgaria**
 
 One of the largest B2B fashion intelligence portals.
 
@@ -67,6 +67,7 @@ Delivered end-to-end solutions for international clients (including Upwork and T
 - WordCamp Sofia 2024 speaker, WordPress plugin developer, and translator.  
   [WordPress Profile](https://profiles.wordpress.org/nikitaglobal/)
 - Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) (**1M+ active installations**).
+- Contributor to [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/).
 - Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019).
 
 Latest CV:
